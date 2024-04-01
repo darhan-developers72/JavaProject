@@ -13,6 +13,8 @@ public class Test {
 		System.out.print(" USD.");
 		System.out.printf("\nThe final price is: %.2f", c );
 		System.out.print(" USD.");
+
+		System.out.println(" Hello Otgoo <3 ");
 		in.close();
 	}
 
